@@ -1,0 +1,63 @@
+/* ==========================================================================
+   Posts
+   ========================================================================== */
+.post-list{
+  .post {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    border-bottom: 1px solid $border-color;
+    &:first-of-type{
+      padding-top: 120px;
+    }
+    .post-meta{
+      display: block;
+      text-align: center;
+
+      .day{
+        display: block;
+        font-size: 52px;
+        font-weight: 800;
+        color: $secondary-color;
+      }
+      .month-year{
+        display: block;
+        color: $black;
+        font-size: 14px;
+        text-transform: uppercase;
+      }
+    }
+    .post-title{
+      color: black;
+      font-weight: 700;
+      text-transform: uppercase;
+      font-size: 34px;
+      margin-bottom: 15px;
+      line-height: 1.1;
+    }
+    .post-excerpt{
+      margin-top: 10px;
+      font-size: 20px;
+    }
+    .post-tags{
+      font-size: 13px;
+      float: left;
+      text-align: center;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      a{
+        display: inline-block;
+        padding: 5px 15px;
+        margin-right: 0.1875rem;
+        color: black;
+        border: 1px solid $black;
+        border-radius: 2px;
+        margin-bottom: 5px;
+
+        &:hover{
+          color: $secondary-color;
+          border-color: $secondary-color;
+        }
+      }
+    }
+  }
+}

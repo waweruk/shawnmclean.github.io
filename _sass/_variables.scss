@@ -6,8 +6,8 @@
    Typography variables
    ========================================================================== */
 
-$base-font                   	: Georgia,Times,"Times New Roman",serif;
-$heading-font                	: "Helvetica Neue","Segoe UI",Arial,sans-serif;
+$base-font                   	: "Montserrat", sans-serif;
+$heading-font                	: $base-font;
 $caption-font                	: $base-font;
 $code-font                   	: monospace;
 $alt-font                    	: $heading-font;
@@ -35,6 +35,7 @@ $border-color                	: #ddd;
 $link-color                  	: #222;
 
 $primary-color               	: $black;
+$secondary-color              : #e51843;
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
 $danger-color                	: #e74c3c;

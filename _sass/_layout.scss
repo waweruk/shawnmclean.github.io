@@ -228,16 +228,12 @@
 }
 // page lead
 .page-lead {
-	background-position: center top;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
+	background-color: $black;
 	text-align: center;
 	color: $white;
-	@include media($large) {
-		background-size: cover;
-	}
 }
 .page-lead-content {
+	text-transform: uppercase;
 	padding: 1em;
 	@include media($medium) {
 		padding: 2em;
@@ -246,6 +242,23 @@
 		padding: 3em;
 	}
 	h1 {
+		padding-top: 120px;
+		@include font-size(14);
+		@include media($medium) {
+			@include font-size(16);
+		}
+		@include media($large) {
+			@include font-size(18);
+		}
+		.title-box{
+			padding: 10px;
+			background-color: $secondary-color;
+		}
+	}
+	h2 {
+		margin-top: 10px;
+		padding-bottom: 120px;
+		font-weight: 700;
 		@include font-size(48);
 		@include media($medium) {
 			@include font-size(60);
@@ -254,14 +267,8 @@
 			@include font-size(72);
 		}
 	}
-	h2 {
-		@include font-size(20);
-		@include media($medium) {
-			@include font-size(24);
-		}
-		@include media($large) {
-			@include font-size(32);
-		}
+	h1, h2{
+		color: $white;
 	}
 }
 // page header
