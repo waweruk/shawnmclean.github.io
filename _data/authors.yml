@@ -1,19 +1,9 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo.jpg
-  twitter: extravagantman
-  google:
-    plus: +BillyRick
-
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
+shawn_mclean:
+  name: Shawn Mclean
+  email: shawnrmclean@gmail.com.com
+  bio: "Software Engineer, I write, test and deploy the codes"
   avatar: bio-photo.jpg
   twitter: rhymeswithsackit
   google:
