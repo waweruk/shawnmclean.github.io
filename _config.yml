@@ -5,6 +5,7 @@ description: "Software Engineering is fun"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
+disqus-shortname: shawnmclean
 url: ''
 
 # Jekyll configuration
