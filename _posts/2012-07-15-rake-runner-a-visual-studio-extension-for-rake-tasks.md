@@ -15,15 +15,15 @@ Rake tasks are executed via an asynchronous process and all output are redirecte
 
 Context Menu:
 
-<a href="http://www.shawnmclean.com/wp-content/uploads/2012/07/rake_context.png"><img class="alignnone wp-image-461 size-full" title="rake_context" src="http://shawnmclean.com/wp-content/uploads/2012/07/rake_context.png" alt="" width="563" height="105" /></a>
+<a href="{{ site.baseurl}}/images/2012/07/rake_context.png"><img class="alignnone wp-image-461 size-full" title="rake_context" src="{{ site.baseurl}}/images/2012/07/rake_context.png" alt="" width="563" height="105" /></a>
 
 Output pane:
 
-<a href="http://www.shawnmclean.com/wp-content/uploads/2012/07/build_output.png"><img class="alignnone wp-image-460 size-full" title="build_output" src="http://shawnmclean.com/wp-content/uploads/2012/07/build_output.png" alt="" width="939" height="283" /></a>
+<a href="{{ site.baseurl}}/images/2012/07/build_output.png"><img class="alignnone wp-image-460 size-full" title="build_output" src="{{ site.baseurl}}/images/2012/07/build_output.png" alt="" width="939" height="283" /></a>
 
 Options Screen:
 
-<a href="http://www.shawnmclean.com/wp-content/uploads/2012/07/options.png"><img class="alignnone wp-image-465 size-full" title="options" src="http://shawnmclean.com/wp-content/uploads/2012/07/options.png" alt="" width="640" height="372" /></a>
+<a href="{{ site.baseurl}}/images/2012/07/options.png"><img class="alignnone wp-image-465 size-full" title="options" src="{{ site.baseurl}}/images/2012/07/options.png" alt="" width="640" height="372" /></a>
 <h2>Requirements</h2>
 <ol>
 	<li>Rake and Ruby.</li>

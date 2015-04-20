@@ -6,9 +6,9 @@ date: 2012-07-01 14:11
 comments: true
 categories: [.net, .Net Framework, review]
 ---
-A few months ago I reviewed <a href="http://www.shawnmclean.com/blog/2012/04/review-of-ucertify-asp-net-web-applications-development-training-kit/">ASP.NET Web Applications Development Training Kit</a> from <a href="https://learn.ucertify.com/">uCertify</a>, now they have an online version of this toolkit available. At first glance, I must say there is a very BIG improvement in the interface, it looks so googlely now and easier to navigate. There are a few new features also, such as Flash Cards, Book and Study Planner.
+A few months ago I reviewed <a href="http://www.shawnmclean.com/review-of-ucertify-asp-net-web-applications-development-training-kit/">ASP.NET Web Applications Development Training Kit</a> from <a href="https://learn.ucertify.com/">uCertify</a>, now they have an online version of this toolkit available. At first glance, I must say there is a very BIG improvement in the interface, it looks so googlely now and easier to navigate. There are a few new features also, such as Flash Cards, Book and Study Planner.
 
-<a href="http://www.shawnmclean.com/wp-content/uploads/2012/07/Capture.png"><img class="alignnone size-full wp-image-451" title="Capture" src="http://www.shawnmclean.com/wp-content/uploads/2012/07/Capture.png" alt="" width="469" height="369" /></a>
+<a href="{{ site.baseurl}}/images/2012/07/Capture.png"><img class="alignnone size-full wp-image-451" title="Capture" src="{{ site.baseurl}}/images/2012/07/Capture.png" alt="" width="469" height="369" /></a>
 
 <em>Screenshot of the main dashboard.</em>
 
@@ -18,7 +18,7 @@ The Book is a nice feature and better organizes the reference materials than the
 
 &nbsp;
 
-<a href="http://www.shawnmclean.com/wp-content/uploads/2012/07/capture1.png"><img class="alignnone size-full wp-image-450" title="capture1" src="http://www.shawnmclean.com/wp-content/uploads/2012/07/capture1.png" alt="" width="923" height="93" /></a>
+<a href="{{ site.baseurl}}/images/2012/07/capture1.png"><img class="alignnone size-full wp-image-450" title="capture1" src="{{ site.baseurl}}/images/2012/07/capture1.png" alt="" width="923" height="93" /></a>
 
 <em>Screenshot of the Book Dashboard. </em>
 

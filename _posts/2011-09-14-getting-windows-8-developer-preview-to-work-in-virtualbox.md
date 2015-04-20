@@ -17,4 +17,4 @@ This is how I installed Windows 8 Developer Preview with developer package (<spa
 	<li>Start the machine, select the mounted drive and everything is common sense from there to install the OS.</li>
 </ol>
 <div>Here is the machine setup:</div>
-<div><a href="http://www.shawnmclean.com/wp-content/uploads/2011/09/settings.jpg"><img title="settings" src="http://www.shawnmclean.com/wp-content/uploads/2011/09/settings.jpg" alt="" width="447" height="435" /></a></div>
+<div><a href="{{ site.baseurl}}/images/2011/09/settings.jpg"><img title="settings" src="{{ site.baseurl}}/images/2011/09/settings.jpg" alt="" width="447" height="435" /></a></div>

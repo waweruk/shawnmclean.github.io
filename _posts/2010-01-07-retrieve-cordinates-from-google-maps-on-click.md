@@ -68,6 +68,6 @@ Longitude
 
 Below is a screenshot of my extended version (I'll show how to get Geo-coded locations in a next post):
 
-<a href="http://www.shawndev.com/blog/wp-content/uploads/2010/01/gmappoint1.png"><img class="size-full wp-image-77 alignnone" title="Google Map Cordinate Retrieval" src="http://www.shawndev.com/blog/wp-content/uploads/2010/01/gmappoint1.png" alt="" /></a>
+<a href="{{ site.baseurl}}/images/2010/01/gmappoint1.png"><img class="size-full wp-image-77 alignnone" title="Google Map Cordinate Retrieval" src="{{ site.baseurl}}/images/2010/01/gmappoint1.png" alt="" /></a>
 
 PS. Google Geo-Code service sucks for Jamaica. I'm now seeking alternative data sets.

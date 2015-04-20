@@ -18,12 +18,12 @@ Done.
 
 Screens:
 
-<a href="http://www.shawnmclean.com/wp-content/uploads/2012/06/menuTerminal.png"><img class="size-full wp-image-436 alignnone" title="menuTerminal" src="http://www.shawnmclean.com/wp-content/uploads/2012/06/menuTerminal.png" alt="" width="357" height="440" /></a>
+<a href="{{ site.baseurl}}/images/2012/06/menuTerminal.png"><img class="size-full wp-image-436 alignnone" title="menuTerminal" src="{{ site.baseurl}}/images/2012/06/menuTerminal.png" alt="" width="357" height="440" /></a>
 
 External Tools:
 
-<a href="http://www.shawnmclean.com/wp-content/uploads/2012/06/terminal.png"><img class="size-full wp-image-438 alignnone" title="terminal" src="http://www.shawnmclean.com/wp-content/uploads/2012/06/terminal.png" alt="" width="456" height="428" /></a>
+<a href="{{ site.baseurl}}/images/2012/06/terminal.png"><img class="size-full wp-image-438 alignnone" title="terminal" src="{{ site.baseurl}}/images/2012/06/terminal.png" alt="" width="456" height="428" /></a>
 
 The Console/Terminal opened from the tools menu while having a project opened.
 
-<a href="http://www.shawnmclean.com/wp-content/uploads/2012/06/terminalconsole.png"><img class="size-full wp-image-437 alignnone" title="terminalconsole" src="http://www.shawnmclean.com/wp-content/uploads/2012/06/terminalconsole.png" alt="" width="542" height="109" /></a>
+<a href="{{ site.baseurl}}/images/2012/06/terminalconsole.png"><img class="size-full wp-image-437 alignnone" title="terminalconsole" src="{{ site.baseurl}}/images/2012/06/terminalconsole.png" alt="" width="542" height="109" /></a>

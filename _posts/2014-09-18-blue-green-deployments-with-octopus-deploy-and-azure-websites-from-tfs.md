@@ -18,17 +18,17 @@ Our workflow is that we will check in code to TFSGit, when we push it to VSO, th
 <h2>Azure Configuration</h2>
 On the Azure Websites, create a new deployment slot called "staging". This feature can be found on the Dashboard of the website under quick glance;
 
-<a href="http://shawnmclean.com/wp-content/uploads/2014/09/Azure-create-slot.png"><img class="alignnone size-full wp-image-1041" src="http://shawnmclean.com/wp-content/uploads/2014/09/Azure-create-slot.png" alt="Azure-create-slot" width="248" height="331" /></a>
+<a href="{{ site.baseurl}}/images/2014/09/Azure-create-slot.png"><img class="alignnone size-full wp-image-1041" src="{{ site.baseurl}}/images/2014/09/Azure-create-slot.png" alt="Azure-create-slot" width="248" height="331" /></a>
 
 When you have created the deployment slot, your website listing should look like the following:
 
-<a href="http://shawnmclean.com/wp-content/uploads/2014/09/AzureList.png"><img class="alignnone size-full wp-image-1051" src="http://shawnmclean.com/wp-content/uploads/2014/09/AzureList.png" alt="Azure Website Listing" width="915" height="144" /></a>
+<a href="{{ site.baseurl}}/images/2014/09/AzureList.png"><img class="alignnone size-full wp-image-1051" src="{{ site.baseurl}}/images/2014/09/AzureList.png" alt="Azure Website Listing" width="915" height="144" /></a>
 
 You may also have multiple deployment slots, as seen here, we have a slot for our testing environment.
 <h3>Azure VM</h3>
 We have installed Octopus Deploy on an Azure VM instance, and a tentacle on that same instance. Since we're deploying applications to Azure Websites and not other VMs, there is no need for multiple deployment agents. Here are a few tips to remember when configuring the VM in Azure:
 <ol>
-	<li>Ensure Endpoint ports are exposed so we can remote and browse to the Deployment Server:<a href="http://shawnmclean.com/wp-content/uploads/2014/09/Azure-VM-Endpoints.png"><img class="alignnone size-full wp-image-1061" src="http://shawnmclean.com/wp-content/uploads/2014/09/Azure-VM-Endpoints.png" alt="Azure VM Endpoints" width="928" height="187" /></a></li>
+	<li>Ensure Endpoint ports are exposed so we can remote and browse to the Deployment Server:<a href="{{ site.baseurl}}/images/2014/09/Azure-VM-Endpoints.png"><img class="alignnone size-full wp-image-1061" src="{{ site.baseurl}}/images/2014/09/Azure-VM-Endpoints.png" alt="Azure VM Endpoints" width="928" height="187" /></a></li>
 	<li>Enable firewall inbound port 80.</li>
 </ol>
 <h2></h2>
@@ -37,7 +37,7 @@ Now that we have the Octopus Deployment Server and Agent running on the Virtual 
 
 First install <a href="https://www.nuget.org/packages/OctoPack/">OctoPack</a> NuGet package on the visual studio projects that will be deployed.
 
-Then create or configure Continuous Integration build definition:<a href="http://shawnmclean.com/wp-content/uploads/2014/09/TFS-Build-Settings.png"><img class="alignnone size-full wp-image-1071" src="http://shawnmclean.com/wp-content/uploads/2014/09/TFS-Build-Settings.png" alt="TFS Build Settings" width="951" height="486" /></a>
+Then create or configure Continuous Integration build definition:<a href="{{ site.baseurl}}/images/2014/09/TFS-Build-Settings.png"><img class="alignnone size-full wp-image-1071" src="{{ site.baseurl}}/images/2014/09/TFS-Build-Settings.png" alt="TFS Build Settings" width="951" height="486" /></a>
 
 Remember to set Output location to <strong>AsConfigured</strong>.
 
@@ -51,13 +51,13 @@ Also in the screen shot above, we are running an UpdateVersion.ps1 script that v
 
 Now push or check in your source and watch the build pushes the packages to the Octopus Deploy NuGet Server, check this by browsing to the Octopus Deploy web app and go to <em>Library </em>where there should be something like the following:
 
-<a href="http://shawnmclean.com/wp-content/uploads/2014/09/Octopus-Deploy-NuGet-Packages.png"><img class="alignnone size-full wp-image-1081" src="http://shawnmclean.com/wp-content/uploads/2014/09/Octopus-Deploy-NuGet-Packages.png" alt="Octopus Deploy NuGet Packages" width="934" height="453" /></a>
+<a href="{{ site.baseurl}}/images/2014/09/Octopus-Deploy-NuGet-Packages.png"><img class="alignnone size-full wp-image-1081" src="{{ site.baseurl}}/images/2014/09/Octopus-Deploy-NuGet-Packages.png" alt="Octopus Deploy NuGet Packages" width="934" height="453" /></a>
 
 This now means everything is working great from TFS and Build, we can now move on to configuring deployments.
 <h2>Octopus Deploy Server</h2>
 Since we are only deploying Azure Websites, we only need 1 tentacle, our environment setup looks like the following screen shot:
 
-<a href="http://shawnmclean.com/wp-content/uploads/2014/09/Octopus-Environment.png"><img class="alignnone wp-image-1091 " src="http://shawnmclean.com/wp-content/uploads/2014/09/Octopus-Environment.png" alt="Octopus Environment" width="611" height="485" /></a>
+<a href="{{ site.baseurl}}/images/2014/09/Octopus-Environment.png"><img class="alignnone wp-image-1091 " src="{{ site.baseurl}}/images/2014/09/Octopus-Environment.png" alt="Octopus Environment" width="611" height="485" /></a>
 
 &nbsp;
 
@@ -67,17 +67,17 @@ We have a Website application that will be using Web Deploy for deploying to Azu
 
 We can then create an application process similar to this screen shot:
 
-<a href="http://shawnmclean.com/wp-content/uploads/2014/09/Octopus-Process.png"><img class="alignnone wp-image-1101 size-full" src="http://shawnmclean.com/wp-content/uploads/2014/09/Octopus-Process.png" alt="Octopus Process" width="836" height="527" /></a>We're doing a <em>rolling deployment</em> in the <strong>deployer </strong>role. Which means that we are running all child steps in sequence as Octopus by default tries to execute steps in parallel. Set the environments you want the steps to be executed in, such as <strong>Test </strong>and <strong>Production</strong>. The step named <em>Swap Production with Staging</em> is only executed in <strong>Production</strong> because that is the only environment the swap can take place.
+<a href="{{ site.baseurl}}/images/2014/09/Octopus-Process.png"><img class="alignnone wp-image-1101 size-full" src="{{ site.baseurl}}/images/2014/09/Octopus-Process.png" alt="Octopus Process" width="836" height="527" /></a>We're doing a <em>rolling deployment</em> in the <strong>deployer </strong>role. Which means that we are running all child steps in sequence as Octopus by default tries to execute steps in parallel. Set the environments you want the steps to be executed in, such as <strong>Test </strong>and <strong>Production</strong>. The step named <em>Swap Production with Staging</em> is only executed in <strong>Production</strong> because that is the only environment the swap can take place.
 
 Configuring the <em>Grikly WebAPI</em> step is nicely documented on the Octopus Deploy help site.
 
 The <em>Grikly WebAPI - Deploy</em> step can be tokenized so we have different values being injected or replaced per deployment to a specific environment by using the <em>Variables</em> feature:
 
-<a href="http://shawnmclean.com/wp-content/uploads/2014/09/Octopus-Deploy-Variables.png"><img class="alignnone wp-image-1111 size-large" src="http://shawnmclean.com/wp-content/uploads/2014/09/Octopus-Deploy-Variables-1024x231.png" alt="Octopus Deploy Variables" width="700" height="157" /></a>
+<a href="{{ site.baseurl}}/images/2014/09/Octopus-Deploy-Variables.png"><img class="alignnone wp-image-1111 size-large" src="{{ site.baseurl}}/images/2014/09/Octopus-Deploy-Variables-1024x231.png" alt="Octopus Deploy Variables" width="700" height="157" /></a>
 
 The Web Deploy Step can be configured as:
 
-<a href="http://shawnmclean.com/wp-content/uploads/2014/09/Octopus-WebDeploy-Config.png"><img class="alignnone wp-image-1121 size-full" src="http://shawnmclean.com/wp-content/uploads/2014/09/Octopus-WebDeploy-Config.png" alt="Octopus WebDeploy Config" width="783" height="501" /></a>
+<a href="{{ site.baseurl}}/images/2014/09/Octopus-WebDeploy-Config.png"><img class="alignnone wp-image-1121 size-full" src="{{ site.baseurl}}/images/2014/09/Octopus-WebDeploy-Config.png" alt="Octopus WebDeploy Config" width="783" height="501" /></a>
 
 Note, we tokenized the Publish Url and Website name with the variable name. This will be replaced based on the criteria specified in the scope of the variable.
 

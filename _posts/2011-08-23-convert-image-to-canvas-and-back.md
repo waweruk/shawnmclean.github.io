@@ -12,7 +12,7 @@ A person emailed me asking for help on this. So here is a simple example on writ
 
 Should look like:
 
-<a href="http://www.shawnmclean.com/wp-content/uploads/2011/08/canvtoimg.png"><img class="aligncenter size-full wp-image-263" title="canvtoimg" src="http://www.shawnmclean.com/wp-content/uploads/2011/08/canvtoimg.png" alt="" width="584" height="245" /></a>
+<a href="{{ site.baseurl}}/images/2011/08/canvtoimg.png"><img class="aligncenter size-full wp-image-263" title="canvtoimg" src="{{ site.baseurl}}/images/2011/08/canvtoimg.png" alt="" width="584" height="245" /></a>
 
 On the left is canvas, on the right is image.
 
