@@ -4,7 +4,7 @@ title: ASP.NET Webapi same origin policy workaround using Custom Http Headers
 date: 2012-04-29 19:04
 
 comments: true
-categories: [.Net Framework, asp.net-webapi]
+categories: [.NET, ASP.NET-WebAPI]
 ---
 Recently, I'm working on an API that should be accessed by both javascript and desktop clients. During debugging of the javascript client, I ran into the <a href="http://en.wikipedia.org/wiki/Same_origin_policy">Same Origin Policy</a> problem which prevented my javascript app to make XHR to the API. Both the client and the API are hosted on different ports which triggers this policy. <em>localhost:35000</em> and <em>localhost:35001</em>
 

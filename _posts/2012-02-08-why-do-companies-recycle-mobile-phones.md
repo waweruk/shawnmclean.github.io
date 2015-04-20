@@ -2,9 +2,8 @@
 layout: post
 title: Why do companies recycle mobile phones?
 date: 2012-02-08 01:25
-
 comments: true
-categories: [Uncategorized]
+categories: [Mobile]
 ---
 I bet many of you, like me, also has many old phones tossed away in a drawer somewhere. You can actually trade in these phones for money (well, some phones that is). I recently found out there is a booming market in the UK where companies are buying cell phones from people (some may have to be in working condition and some will have to be at a certain age).  For example <a href="http://www.o2.co.uk/">The O2 phone company</a> will give you £29.00 ($4,000.00 JMD) for a first generation iPhone with scratches and general wear and tear. Just like with these cash-for-gold merchants, I'd rather find out the source, or what exactly they are doing with them (if a company buys your phone for x, there is a chance they are making 2x from it). So what do these companies do with these phones?
 <ol>

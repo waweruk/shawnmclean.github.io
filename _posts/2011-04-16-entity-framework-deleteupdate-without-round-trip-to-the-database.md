@@ -4,7 +4,7 @@ title: Entity framework delete/update without round trip to the database
 date: 2011-04-16 03:33
 
 comments: true
-categories: [.Net Framework, Entity-framework]
+categories: [.NET, Entity Framework]
 ---
 One of Entity Framework's main advantage is the ability to load and track it's graph. By default, code-first loads and tracks entities, whether they are in a single-tier or n-tier app. This comes at a cost of performance. Tracking entities can be just a little intensive on memory if we are loading thousands of records from the database. If we do not need the benefit of tracking, we may work with detached entity objects.
 <h2>Updating</h2>

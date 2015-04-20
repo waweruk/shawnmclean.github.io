@@ -4,7 +4,7 @@ title: HTML5 Mobile Development Cookbook review
 date: 2012-03-14 19:52
 
 comments: true
-categories: [CSS3, HTML &amp; CSS, html5, Javascript, javascript]
+categories: [HTML, CSS, Javascript]
 ---
 The web is becoming mobile, major websites are creating a mobile version of their system and new sites are also starting out as mobile only first. Thus, I shall not be left behind and have recently finished reading the<a href="https://www.packtpub.com/html5-mobile-development-for-iphone5-android-blackberry-cookbook/book"> HTML5 Mobile Development Cookbook</a>, over 200 pages of in-depth explanations, source codes and pictures of building various features for mobile browsers. This book is like an All In One book of tutorials and articles packaged together is proper sequence. Setting up test environment (not development environment), browser support for features and interacting with various phone OS APIs are some of the most notable topic.
 

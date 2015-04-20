@@ -2,9 +2,8 @@
 layout: post
 title: Jamaica Blog Awards 2012 nomination
 date: 2013-01-14 14:04
-
 comments: true
-categories: [Random]
+categories: []
 ---
 Me and my friend's blog were nominated for the <a href="http://jamaicablogawards.org/jm/">Jamaica Blog Awards 2012</a>. You should vote for us at these Urls:
 <ol>

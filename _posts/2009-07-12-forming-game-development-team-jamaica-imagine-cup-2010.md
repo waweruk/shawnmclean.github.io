@@ -2,7 +2,6 @@
 layout: post
 title: Forming Game Development Team Jamaica - Imagine Cup 2010
 date: 2009-07-12 21:03
-
 comments: true
 categories: [Competition, Imagine Cup 2010, Uncategorized]
 ---

@@ -2,9 +2,8 @@
 layout: post
 title: Storing Passwords using PBKDF2 Algorithm
 date: 2011-10-12 00:29
-
 comments: true
-categories: [.net, .Net Framework, c#, encryption, hashing]
+categories: [.NET, c#, Security]
 ---
 I recently stopped using SHA, etc, etc for hashing passwords due to my misguided attempt of having higher security. The problem with these hashing algorithms are that they are <em>fast, </em>even when coupled with a salt, brute force algorithms could be written to crack these combinations faster. Coupled with parallel brute force on CUDA or ATI graphics cards, my passwords wont last much long with cracking algorithms running on top of these systems.
 

@@ -4,7 +4,7 @@ title: How can HTML5 data attributes (data-*) help efficiency?
 date: 2011-02-13 19:34
 
 comments: true
-categories: [HTML &amp; CSS, html5, Javascript, jQuery]
+categories: [Javascript, jQuery]
 ---
 As web-apps become more like desktop apps, we demand faster and more efficient client-side optimizations. These optimizations rely on us developers. As the features are released and supported, we have to be able to mix and match the techniques we use so our apps can reach their full potential. One such feature is the HTML5-data-attributes.
 

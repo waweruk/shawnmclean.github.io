@@ -4,7 +4,7 @@ title: Using CSS specify to clean up your HTML or CSS code-base
 date: 2011-04-26 04:07
 
 comments: true
-categories: [CSS, HTML &amp; CSS]
+categories: [CSS, HTML]
 ---
 I would normally structure my site as follows:
 

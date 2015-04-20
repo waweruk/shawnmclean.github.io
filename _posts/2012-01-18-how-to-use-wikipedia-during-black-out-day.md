@@ -2,9 +2,8 @@
 layout: post
 title: How to use wikipedia during black-out day
 date: 2012-01-18 15:36
-
 comments: true
-categories: [Javascript, javascript]
+categories: [Javascript]
 ---
 I'm so disappointed in how wikipedia went about their so called 'black-out day' to protest against SOPA. Instead of a server side redirect, they used client side?
 

@@ -2,9 +2,9 @@
 layout: post
 title: Blue-Green Deployments with Octopus Deploy and Azure Websites from TFS
 date: 2014-09-18 06:02
-
 comments: true
-categories: [ALM, automation, Deployment, DevOps, visual studio, Windows Azure]
+categories: [ALM, DevOps]
+tags: [visual studio, windows azure]
 ---
 This article aim to explain how we can use Octopus Deploy to Automate Deployments to Azure Websites with a single deployment agent (tentacle) using the Blue-Green deployment pattern. This infrastructure is being used in my startup <a href="http://grik.ly">Grikly</a> running purely on Azure using the BizSpark subscription, a simple and nice setup for a low cost software development company. The same concepts can be used in Enterprise grade systems.
 

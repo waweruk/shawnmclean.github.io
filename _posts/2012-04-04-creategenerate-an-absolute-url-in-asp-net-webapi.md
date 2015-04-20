@@ -4,7 +4,7 @@ title: Create/Generate an absolute url in asp.net webapi
 date: 2012-04-04 02:55
 
 comments: true
-categories: [.Net Framework, asp.net-webapi]
+categories: [.NET, ASP.NET-WebAPI]
 ---
 To get the absolute Url to an action or route in your WebAPI controller that points to another action, play around with the following code:
 

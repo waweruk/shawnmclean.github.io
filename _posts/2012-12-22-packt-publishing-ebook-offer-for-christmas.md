@@ -2,9 +2,8 @@
 layout: post
 title: Packt Publishing eBook offer for Christmas
 date: 2012-12-22 19:02
-
 comments: true
-categories: [Web Design]
+categories: []
 ---
 Packt publishing currently has a promotion of reducing the prices of books to $5 USD if a purchase of 2 or more is made. Books such as a Computer Vision cookbook, costing $22 USD, will be on sale for $5, good deal IMO.
 

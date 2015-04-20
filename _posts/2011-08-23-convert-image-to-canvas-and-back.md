@@ -4,7 +4,7 @@ title: Convert Image to Canvas and back HTML5
 date: 2011-08-23 00:59
 
 comments: true
-categories: [HTML &amp; CSS, html5, Javascript, jQuery, Uncategorized]
+categories: [HTML, Javascript, jQuery]
 ---
 A person emailed me asking for help on this. So here is a simple example on writing an image to a canvas, drawing a black rectangle beside it and then converting it back to an image using the <em>toDataURL() </em>method. I place the conversion code in the image.onload method instead of using events for the succinctness of the code.
 

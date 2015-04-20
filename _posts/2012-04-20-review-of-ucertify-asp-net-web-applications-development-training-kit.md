@@ -4,7 +4,7 @@ title: Review of uCertify ASP.NET Web Applications Development Training Kit
 date: 2012-04-20 01:48
 
 comments: true
-categories: [.net, .Net Framework, review, Uncategorized]
+categories: [.NET, ASP.NET]
 ---
 I've been using the <a href="http://www.ucertify.com/exams/Microsoft/70-515-CSHARP.html">70-515-CSHARP – MCTS: Web Applications Development Training kit</a> from uCertify for a week. A typical study-learn-practise guide to completing the <a href="http://www.microsoft.com/learning/en/us/exam.aspx?ID=70-515#tab1">Microsoft 70-515 exam</a>. The software is installed and used as a desktop application.  I'll express my subjective views on what I liked and disliked. I have not done the exam as yet and will write another article on how well this training kit helped me in passing the exam.
 <h2>Tests (10/10)</h2>

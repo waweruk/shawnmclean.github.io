@@ -2,7 +2,6 @@
 layout: post
 title: Setting up Release Management in Azure Virtual Machine
 date: 2014-01-17 20:35
-
 comments: true
 categories: [ALM]
 ---

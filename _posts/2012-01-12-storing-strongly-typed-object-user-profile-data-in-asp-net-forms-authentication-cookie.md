@@ -2,9 +2,8 @@
 layout: post
 title: Storing object as profile data in ASP.NET forms authentication cookie
 date: 2012-01-12 20:16
-
 comments: true
-categories: [asp.net-mvc, Uncategorized]
+categories: [ASP.NET-MVC]
 ---
 In ASP.NET, you are normally given just a string to store additional user data using the <em>FormsAuthenticationTicket</em>, this ticket also takes a UserId, but most times we need to store some form of structured data in cookies, such as an object.
 
@@ -21,7 +20,7 @@ You should also have a cast, that will convert the User Identity to your custom 
 <h2>Setting the Data</h2>
 You should have a FormsAuthenticationService, and it would look like this:
 
-<script type="text/javascript" src="https://gist.github.com/1602683.js?file=FormsAuthenticationService.cs"></script>  
+<script type="text/javascript" src="https://gist.github.com/1602683.js?file=FormsAuthenticationService.cs"></script> 
 
 <h2>Using the Data</h2>
 

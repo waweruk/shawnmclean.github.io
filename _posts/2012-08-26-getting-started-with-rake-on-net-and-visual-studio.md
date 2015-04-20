@@ -4,7 +4,7 @@ title: Getting started with rake on .NET and visual studio
 date: 2012-08-26 18:16
 
 comments: true
-categories: [.Net Framework, automation, build-systems, software-engineering]
+categories: [.NET, ALM]
 ---
 <a href="http://rake.rubyforge.org/">Rake</a> is normally used as a build tool scripting language (if used for anything else, please do comment). I've been using it for almost 2 years in place of NAnt and MSBuild due to its programmability. Executing a concise script to do anything I want for my build process is a great bonus rather than writing complex XML configurations. At work, I hook this script into the team city build server (which supports running rake tasks). My tasks ranges from versioning, unit-tests, deploy to staging and manual click to deploy to production, without having server specific features. Anything the build server can do, I can do it from my machine.
 

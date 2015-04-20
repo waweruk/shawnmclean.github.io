@@ -2,9 +2,8 @@
 layout: post
 title: Review of uCertify Online Training Kit
 date: 2012-07-01 14:11
-
 comments: true
-categories: [.net, .Net Framework, review]
+categories: [.NET]
 ---
 A few months ago I reviewed <a href="http://www.shawnmclean.com/review-of-ucertify-asp-net-web-applications-development-training-kit/">ASP.NET Web Applications Development Training Kit</a> from <a href="https://learn.ucertify.com/">uCertify</a>, now they have an online version of this toolkit available. At first glance, I must say there is a very BIG improvement in the interface, it looks so googlely now and easier to navigate. There are a few new features also, such as Flash Cards, Book and Study Planner.
 

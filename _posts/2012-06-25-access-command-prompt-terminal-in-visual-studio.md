@@ -2,9 +2,8 @@
 layout: post
 title: Access command prompt | terminal in visual studio
 date: 2012-06-25 01:28
-
 comments: true
-categories: [Visual Studio, visual studio]
+categories: [Visual Studio]
 ---
 Sometimes I need to execute a command line script on my visual studio solutions. Here is how to set up an External Tool to start command prompt that localizes the directory to your project:
 

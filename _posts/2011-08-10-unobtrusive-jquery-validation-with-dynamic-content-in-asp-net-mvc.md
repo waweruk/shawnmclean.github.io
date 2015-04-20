@@ -4,7 +4,7 @@ title: Unobtrusive jquery validation with dynamic content in ASP.NET MVC
 date: 2011-08-10 04:16
 
 comments: true
-categories: [asp.net-mvc, asp.net-mvc-3, HTML &amp; CSS, html5, Javascript, jQuery]
+categories: [.NET, ASP.NET-MVC, Javascript, jQuery]
 ---
 I wanted to have a dynamic form that had hiding/showing input elements, and still contained validation that was extended from my data annotated models. I followed xhalent's blog post <a href="http://xhalent.wordpress.com/2011/01/24/applying-unobtrusive-validation-to-dynamic-content/">here</a>, but ended up wasting alot of time. Apparently his method supports changing validation rules at run-time.
 

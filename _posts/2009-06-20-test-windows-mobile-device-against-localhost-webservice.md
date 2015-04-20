@@ -2,9 +2,8 @@
 layout: post
 title: Test Windows Mobile Device Against Localhost Webservice
 date: 2009-06-20 05:26
-
 comments: true
-categories: [device, emulator, Localhost, Mobile Development, Webservice, windows CE]
+categories: [Mobile Development, Windows CE]
 ---
 <strong>Technical Level: </strong>Intermediate
 

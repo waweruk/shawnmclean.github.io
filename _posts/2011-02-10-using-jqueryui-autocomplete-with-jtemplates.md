@@ -2,9 +2,8 @@
 layout: post
 title: Using jQueryUI autocomplete with jTemplates
 date: 2011-02-10 04:52
-
 comments: true
-categories: [AJAX, HTML &amp; CSS, html5, Javascript, jQuery]
+categories: [Javascript, jQuery]
 ---
 <strong>Technical Level: </strong>Beginner
 

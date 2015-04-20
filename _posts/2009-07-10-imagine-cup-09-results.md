@@ -2,9 +2,8 @@
 layout: post
 title: Imagine Cup 09 results
 date: 2009-07-10 22:12
-
 comments: true
-categories: [Imagine Cup 09, Left Clik, Software Design, Uncategorized]
+categories: [Imagine Cup]
 ---
 We did not make it to the top 12. The results sourced from the imagine cup blog is:
 <p style="padding-top:15px;margin:0;"><strong>Software Design</strong></p>

@@ -2,9 +2,8 @@
 layout: post
 title: Integration test ASP.NET WebAPI with OWIN and Authentication
 date: 2014-08-31 19:29
-
 comments: true
-categories: [ASP.NET WebApi, asp.net-webapi-2, Testing]
+categories: [ASP.NET-WebAPI, Security]
 ---
 In this article, I'm going to share the steps I take in order to run integration tests on ASP.NET WebAPI using OWIN/Katana that uses authentication from ASP.NET Identities.
 

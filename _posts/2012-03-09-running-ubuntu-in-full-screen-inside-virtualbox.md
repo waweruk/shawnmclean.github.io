@@ -2,9 +2,8 @@
 layout: post
 title: Running ubuntu in full screen inside virtualbox
 date: 2012-03-09 16:08
-
 comments: true
-categories: [ubuntu, virtualbox, Windows]
+categories: [ubuntu]
 ---
 Install Guest Addition:
 

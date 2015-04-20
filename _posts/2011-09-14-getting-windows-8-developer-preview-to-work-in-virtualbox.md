@@ -2,9 +2,8 @@
 layout: post
 title: Getting Windows 8 Developer Preview to work in Virtualbox
 date: 2011-09-14 17:55
-
 comments: true
-categories: [virtualbox, Windows, windows 8]
+categories: [Windows]
 ---
 This is how I installed Windows 8 Developer Preview with developer package (<span style="color: #ff0000;">64-bit</span>) on Virtual Box which is on my <span style="color: #ff0000;">64-bit</span> Windows 7 machine:
 <ol>

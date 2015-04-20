@@ -4,7 +4,7 @@ title: ConfigurationManager not found.
 date: 2011-02-15 15:20
 
 comments: true
-categories: [.net, .Net Framework]
+categories: [.NET]
 ---
 I know this is an old problem but every few months I get caught by it. The problem is that <em>ConfigurationManager </em>that is used to get settings from the app.config/web.config file is not available.
 

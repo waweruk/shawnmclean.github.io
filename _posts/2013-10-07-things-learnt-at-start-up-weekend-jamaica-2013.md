@@ -2,7 +2,6 @@
 layout: post
 title: Things learnt at start-up weekend Jamaica 2013
 date: 2013-10-07 21:45
-
 comments: true
 categories: [Entrepreneurship]
 ---

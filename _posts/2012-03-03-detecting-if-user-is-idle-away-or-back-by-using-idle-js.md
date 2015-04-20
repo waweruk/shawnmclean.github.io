@@ -2,9 +2,8 @@
 layout: post
 title: Detecting if user is idle, away or back by using Idle.js
 date: 2012-03-03 21:24
-
 comments: true
-categories: [Javascript, javascript]
+categories: [Javascript]
 ---
 <a href="https://github.com/shawnmclean/Idle.js">Idle.js </a>is a javascript API that can detect if a user is idle, away or back in a webpage. This library is independent of other libraries such as jQuery. It supports callbacks for when the user is idle and back and methods for setting the timeout. The main purpose of creating this library is to use it in a chat application to relay the user status back to the server.
 <h2>API</h2>

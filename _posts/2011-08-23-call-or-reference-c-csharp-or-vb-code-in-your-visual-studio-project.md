@@ -4,7 +4,7 @@ title: Call or Reference c# (csharp) or vb code in your visual studio project
 date: 2011-08-23 02:26
 
 comments: true
-categories: [.net, .Net Framework, visual studio]
+categories: [.NET, visual studio]
 ---
 I see many questions like this popup on stackoverflow, or even beginner .net programmers asking this question. Many of them worded differently, but asking the same thing. "How do I reference other projects in visual studio". You can find a worded version on <a href="http://msdn.microsoft.com/en-us/library/f3st0d45.aspx">MSDN </a>or you can view the pictorial version below:
 

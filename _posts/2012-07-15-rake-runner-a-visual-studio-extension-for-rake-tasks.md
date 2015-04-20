@@ -4,7 +4,7 @@ title: Rake Runner a visual studio extension for rake tasks
 date: 2012-07-15 18:12
 
 comments: true
-categories: [.Net Framework, extensions, Visual Studio, visual studio]
+categories: [.NET, Visual Studio]
 ---
 <h2>Overview</h2>
 <a href="http://visualstudiogallery.msdn.microsoft.com/551978a5-68e3-452b-9067-22ef237ce929">Rake Runner</a>, a visual studio 2012 extension that lists rake tasks in the right click menu context of the solution explorer. These tasks can be executed and the output is shown in the build output. This tool calls `<em>rake -P</em>` for listing tasks in the selected directory and `<em>rake {taskname}</em>` for executing tasks which requires rake to be in the PATH Environment or manually set in the options. This project is open source and hosted on <a href="https://github.com/shawnmclean/Rake-Runner">github</a>.

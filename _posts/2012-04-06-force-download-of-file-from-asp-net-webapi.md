@@ -4,7 +4,7 @@ title: Force download of file from ASP.NET WebAPI
 date: 2012-04-06 21:27
 
 comments: true
-categories: [.Net Framework, asp.net-webapi]
+categories: [.NET, ASP.NET-WebAPI]
 ---
 How to generate and download content as files from an ASP.NET WebApi action. This example is focused on text content. When returning a file, we actually utilize `<a href="http://msdn.microsoft.com/en-us/library/system.net.http.httpresponsemessage(v=vs.110).aspx">HttpResponseMessage</a>` for low level modification of http headers.
 

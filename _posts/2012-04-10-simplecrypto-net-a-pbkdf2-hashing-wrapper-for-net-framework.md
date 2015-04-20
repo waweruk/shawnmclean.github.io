@@ -4,9 +4,9 @@ title: SimpleCrypto.Net a PBKDF2 Hashing wrapper for .Net Framework
 date: 2012-04-10 06:46
 
 comments: true
-categories: [.net, .Net Framework, c#, hashing, security]
+categories: [.NET, c#, Security]
 ---
-Recently, Jeff Atwood blogged about a <a href="http://www.codinghorror.com/blog/2012/04/speed-hashing.html">hashing speed problem</a>, so I decided to rewrite my library since many people will be searching for easier ways of implementing PBKDF2 hashing. So I moved and re-factored my PBKDF2 algorithm stated in this <a href="http://www.shawnmclean.com/blog/2011/10/storing-passwords-using-pbkdf2-algorithm/">post</a> into this project which is much more object oriented friendly and focused only as a cryptography library. <a href="https://github.com/shawnmclean/SimpleCrypto.net">SimpleCrypto.Net</a>, a simple wrapper for .NET that abstracts away complex cryptography algorithms from the user (easy password hashing for noobs). 
+Recently, Jeff Atwood blogged about a <a href="http://www.codinghorror.com/blog/2012/04/speed-hashing.html">hashing speed problem</a>, so I decided to rewrite my library since many people will be searching for easier ways of implementing PBKDF2 hashing. So I moved and re-factored my PBKDF2 algorithm stated in this <a href="http://www.shawnmclean.com/2011/10/storing-passwords-using-pbkdf2-algorithm/">post</a> into this project which is much more object oriented friendly and focused only as a cryptography library. <a href="https://github.com/shawnmclean/SimpleCrypto.net">SimpleCrypto.Net</a>, a simple wrapper for .NET that abstracts away complex cryptography algorithms from the user (easy password hashing for noobs).
 
 There are 3 basic ways of using this wrapper:
 <h3>1. Compute Hash for a string by generating a salt</h3>

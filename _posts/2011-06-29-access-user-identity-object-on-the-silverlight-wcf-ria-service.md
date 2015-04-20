@@ -2,9 +2,8 @@
 layout: post
 title: Access User identity object on the silverlight wcf ria service
 date: 2011-06-29 02:26
-
 comments: true
-categories: [Silverlight, Silverlight]
+categories: [Silverlight]
 ---
 Simple:
 

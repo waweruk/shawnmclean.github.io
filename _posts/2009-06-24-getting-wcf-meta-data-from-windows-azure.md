@@ -2,9 +2,9 @@
 layout: post
 title: Getting WCF Meta-data from Windows Azure
 date: 2009-06-24 00:49
-
 comments: true
-categories: [azure, client, meta-data, proxy, wcf, web role, Windows Azure, Windows Communication Foundation]
+categories: [WCF]
+tags:
 ---
 <strong>Technical Level: </strong>Beginner
 

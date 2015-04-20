@@ -2,9 +2,8 @@
 layout: post
 title: HTML5 canvas cookbook, beginners guide to game development with html5
 date: 2011-12-16 01:45
-
 comments: true
-categories: [canvas, HTML &amp; CSS, html5, Javascript]
+categories: [HTML, CSS, Javascript]
 ---
 I recently read through <a href="http://www.packtpub.com/html5-canvas-cookbook-recipes-to-revolutionize-web-experience/book" target="_blank">HTML5 Canvas Cookbook</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=shawnmclean-20&amp;l=as2&amp;o=1&amp;a=1849691363" alt="" width="1" height="1" border="0" /> , a very good book from complete newbs to advanced game developers looking to get started in creating HTML5 games. If you have some form of game dev experience before, its very easy to catch on, all this book will do is teach you the API with some web dev techniques such as using it in an MVC type of approach. It also targets just normal html5 canvas development, for example, creating charting controls or just simple animations. Basically, this book just replaces a beginners book for getting started in flash development.
 

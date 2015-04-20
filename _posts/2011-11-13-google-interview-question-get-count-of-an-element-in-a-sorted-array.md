@@ -3,7 +3,7 @@ layout: post
 title: Google Interview Question - Get Count of an element in a sorted array
 date: 2011-11-13 23:27
 comments: true
-categories: [.Net Framework, Algorithm]
+categories: [.NET, Algorithms]
 ---
 So a few weeks ago I did an online technical interview with Google (I was contacted by one of their recruiter). The main question centred around "<strong>Find the occurrence of an element in a sorted array". </strong>Now the interviewer wanted the most optimal solution, which is O(log n). This means there shall be no linear counting of any sort, whether after a binary search or before it.
 

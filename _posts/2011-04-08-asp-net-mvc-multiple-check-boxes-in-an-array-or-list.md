@@ -4,7 +4,7 @@ title: Asp.net MVC Multiple check-boxes in an array or list
 date: 2011-04-08 19:27
 
 comments: true
-categories: [.Net Framework, asp.net-mvc, asp.net-mvc-3]
+categories: [.NET, ASP.NET-MVC]
 ---
 I had the problem of having a list of check-boxes being displayed in my view.
 
@@ -63,7 +63,7 @@ Now we need our <em>Actions</em>:
             List&lt;Role&gt; roles = model.Roles.Where(r =&gt; r.IsInRole).Select(r =&gt; new Role {RoleId = r.RoleId, RoleName = r.RoleName}).ToList();
             userService.AddRolesToUser(model.UserId, roles);
 
-            return View();            
+            return View();
         }</pre>
 [/codesyntax]
 

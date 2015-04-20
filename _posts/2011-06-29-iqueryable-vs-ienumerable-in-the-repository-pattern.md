@@ -2,9 +2,8 @@
 layout: post
 title: IQueryable vs. IEnumerable in the repository pattern
 date: 2011-06-29 03:15
-
 comments: true
-categories: [.Net Framework, Entity-framework]
+categories: [.NET, Entity Framework]
 ---
 First of all, I'll tell the difference between the two and why I choose to return <strong>IQueryable&lt;T&gt; </strong>over IEnumerable&lt;T&gt; in my repository.
 

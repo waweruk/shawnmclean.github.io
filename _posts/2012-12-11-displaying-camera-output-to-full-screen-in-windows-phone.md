@@ -2,9 +2,8 @@
 layout: post
 title: Displaying camera output to full screen in windows phone
 date: 2012-12-11 15:31
-
 comments: true
-categories: [Uncategorized]
+categories: [Windows Phone]
 ---
 Sometimes we might need to display the camera output as full screen on our windows phone but due to the difference between aspect ratio of the camera output and the phone screen, this poses as a slight challenge.
 

@@ -4,7 +4,7 @@ title: Add folders to fsharp (F#) project in visual studio 2010/2008
 date: 2011-03-14 04:15
 
 comments: true
-categories: [.net, f#, Uncategorized]
+categories: [.NET, f#]
 ---
 I recently created a new f# project in my solution and ran into a problem I faced a few months ago. I had no option on creating folders in a F# project. Well, there are 2 solutions, manual coding the config for folders or use a tool.
 

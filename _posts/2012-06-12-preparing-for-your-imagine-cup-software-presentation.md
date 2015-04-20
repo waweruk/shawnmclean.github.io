@@ -4,7 +4,7 @@ title: Preparing for your Imagine Cup Software Presentation
 date: 2012-06-12 05:47
 
 comments: true
-categories: [Imagine Cup, Uncategorized]
+categories: [Imagine Cup]
 ---
 So you're presenting your world saving, ground breaking software to a panel of live judges in a few months, or maybe a few days? Here are a few tips to help you in preparing for your nerve racking presentation.
 <h2>Structuring your Presentation</h2>

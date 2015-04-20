@@ -4,7 +4,7 @@ title: Getting SourceGear DiffMerge 3.3.1 x64 to work with visual studio 2010
 date: 2011-08-23 03:35
 
 comments: true
-categories: [.Net Framework, diffmerge, visual studio]
+categories: [.NNET, visual studio]
 ---
 <h2>Problem</h2>
 So SourceGear released a new version of <a href="http://www.sourcegear.com/diffmerge/">DiffMerge</a>, and moved around directories which caused my visual studio to throw an error when using AnkhSVN to resolve a conflict.

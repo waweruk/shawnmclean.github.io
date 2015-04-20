@@ -2,9 +2,8 @@
 layout: post
 title: Preparation for Imagine Cup 09 Finals
 date: 2009-06-28 21:21
-
 comments: true
-categories: [Competition, Imagine Cup 09, Left Clik, Software Design, Uncategorized]
+categories: [Imagine Cup]
 ---
 Today is sunday, the finals is Saturday and I'm still coding. No presentation script has been written for the demo as yet. We have our storyboard and outline for the demo. I need to upload our Azure project to the live windows azure server and our silverlight application into the live mesh and do some testing against those.
 
