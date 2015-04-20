@@ -2,7 +2,7 @@
 layout: post
 title: How can HTML5 data attributes (data-*) help efficiency?
 date: 2011-02-13 19:34
-author: shawnmclean
+
 comments: true
 categories: [HTML &amp; CSS, html5, Javascript, jQuery]
 ---

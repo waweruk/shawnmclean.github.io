@@ -2,7 +2,7 @@
 layout: post
 title: Storing Passwords using PBKDF2 Algorithm
 date: 2011-10-12 00:29
-author: shawnmclean
+
 comments: true
 categories: [.net, .Net Framework, c#, encryption, hashing]
 ---

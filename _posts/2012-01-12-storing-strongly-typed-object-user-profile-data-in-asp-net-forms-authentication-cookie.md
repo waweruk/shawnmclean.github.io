@@ -2,7 +2,7 @@
 layout: post
 title: Storing object as profile data in ASP.NET forms authentication cookie
 date: 2012-01-12 20:16
-author: shawnmclean
+
 comments: true
 categories: [asp.net-mvc, Uncategorized]
 ---

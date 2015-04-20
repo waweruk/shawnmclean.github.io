@@ -2,7 +2,7 @@
 layout: post
 title: HTML5 Mobile Development Cookbook review
 date: 2012-03-14 19:52
-author: shawnmclean
+
 comments: true
 categories: [CSS3, HTML &amp; CSS, html5, Javascript, javascript]
 ---

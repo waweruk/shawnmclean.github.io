@@ -2,7 +2,7 @@
 layout: post
 title: Running ubuntu in full screen inside virtualbox
 date: 2012-03-09 16:08
-author: shawnmclean
+
 comments: true
 categories: [ubuntu, virtualbox, Windows]
 ---

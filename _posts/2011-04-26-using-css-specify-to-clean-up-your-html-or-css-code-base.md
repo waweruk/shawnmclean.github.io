@@ -2,7 +2,7 @@
 layout: post
 title: Using CSS specify to clean up your HTML or CSS code-base
 date: 2011-04-26 04:07
-author: shawnmclean
+
 comments: true
 categories: [CSS, HTML &amp; CSS]
 ---

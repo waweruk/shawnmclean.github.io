@@ -2,7 +2,7 @@
 layout: post
 title: Converted SVN to Git project does not open in visual studio
 date: 2012-08-07 03:33
-author: shawnmclean
+
 comments: true
 categories: [Visual Studio]
 ---

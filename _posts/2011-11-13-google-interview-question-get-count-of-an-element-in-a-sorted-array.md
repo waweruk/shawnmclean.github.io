@@ -2,7 +2,7 @@
 layout: post
 title: Google Interview Question: Get Count of an element in a sorted array
 date: 2011-11-13 23:27
-author: shawnmclean
+
 comments: true
 categories: [.Net Framework, Algorithm]
 ---

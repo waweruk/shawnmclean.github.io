@@ -2,7 +2,7 @@
 layout: post
 title: Generating Silverlight WCF Proxy Class Manually
 date: 2009-06-28 21:03
-author: shawnmclean
+
 comments: true
 categories: [client, Silverlight, Silverlight, wcf, Webservice, Windows Communication Foundation]
 ---

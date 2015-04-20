@@ -2,7 +2,7 @@
 layout: post
 title: ASP.NET Webapi same origin policy workaround using Custom Http Headers
 date: 2012-04-29 19:04
-author: shawnmclean
+
 comments: true
 categories: [.Net Framework, asp.net-webapi]
 ---

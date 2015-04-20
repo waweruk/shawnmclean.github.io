@@ -2,7 +2,7 @@
 layout: post
 title: Integration test ASP.NET WebAPI with OWIN and Authentication
 date: 2014-08-31 19:29
-author: shawnmclean
+
 comments: true
 categories: [ASP.NET WebApi, asp.net-webapi-2, Testing]
 ---

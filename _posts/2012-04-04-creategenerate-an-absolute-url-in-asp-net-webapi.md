@@ -2,7 +2,7 @@
 layout: post
 title: Create/Generate an absolute url in asp.net webapi
 date: 2012-04-04 02:55
-author: shawnmclean
+
 comments: true
 categories: [.Net Framework, asp.net-webapi]
 ---

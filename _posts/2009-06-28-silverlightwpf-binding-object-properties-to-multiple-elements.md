@@ -2,7 +2,7 @@
 layout: post
 title: Silverlight/WPF - Binding object properties to multiple elements
 date: 2009-06-28 21:05
-author: shawnmclean
+
 comments: true
 categories: [binding, datacontext, Silverlight, Silverlight, Windows Presentation Foundation, wpf, xaml]
 ---

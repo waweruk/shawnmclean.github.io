@@ -2,7 +2,7 @@
 layout: post
 title: Rake Runner a visual studio extension for rake tasks
 date: 2012-07-15 18:12
-author: shawnmclean
+
 comments: true
 categories: [.Net Framework, extensions, Visual Studio, visual studio]
 ---

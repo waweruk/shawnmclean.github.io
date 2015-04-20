@@ -2,7 +2,7 @@
 layout: post
 title: Displaying camera output to full screen in windows phone
 date: 2012-12-11 15:31
-author: shawnmclean
+
 comments: true
 categories: [Uncategorized]
 ---

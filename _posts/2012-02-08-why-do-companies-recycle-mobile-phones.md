@@ -2,7 +2,7 @@
 layout: post
 title: Why do companies recycle mobile phones?
 date: 2012-02-08 01:25
-author: shawnmclean
+
 comments: true
 categories: [Uncategorized]
 ---

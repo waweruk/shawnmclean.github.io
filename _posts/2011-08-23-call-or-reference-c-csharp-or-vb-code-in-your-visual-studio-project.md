@@ -2,7 +2,7 @@
 layout: post
 title: Call or Reference c# (csharp) or vb code in your visual studio project
 date: 2011-08-23 02:26
-author: shawnmclean
+
 comments: true
 categories: [.net, .Net Framework, visual studio]
 ---

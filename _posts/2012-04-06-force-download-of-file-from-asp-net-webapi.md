@@ -2,7 +2,7 @@
 layout: post
 title: Force download of file from ASP.NET WebAPI
 date: 2012-04-06 21:27
-author: shawnmclean
+
 comments: true
 categories: [.Net Framework, asp.net-webapi]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: HTML5 canvas cookbook, beginners guide to game development with html5
 date: 2011-12-16 01:45
-author: shawnmclean
+
 comments: true
 categories: [canvas, HTML &amp; CSS, html5, Javascript]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Review of uCertify Online Training Kit
 date: 2012-07-01 14:11
-author: shawnmclean
+
 comments: true
 categories: [.net, .Net Framework, review]
 ---

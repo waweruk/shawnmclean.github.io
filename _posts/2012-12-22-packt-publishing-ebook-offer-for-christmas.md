@@ -2,7 +2,7 @@
 layout: post
 title: Packt Publishing eBook offer for Christmas
 date: 2012-12-22 19:02
-author: shawnmclean
+
 comments: true
 categories: [Web Design]
 ---

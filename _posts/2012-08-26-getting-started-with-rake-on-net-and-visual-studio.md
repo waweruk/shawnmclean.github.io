@@ -2,7 +2,7 @@
 layout: post
 title: Getting started with rake on .NET and visual studio
 date: 2012-08-26 18:16
-author: shawnmclean
+
 comments: true
 categories: [.Net Framework, automation, build-systems, software-engineering]
 ---

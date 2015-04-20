@@ -2,7 +2,7 @@
 layout: post
 title: Entity framework delete/update without round trip to the database
 date: 2011-04-16 03:33
-author: shawnmclean
+
 comments: true
 categories: [.Net Framework, Entity-framework]
 ---

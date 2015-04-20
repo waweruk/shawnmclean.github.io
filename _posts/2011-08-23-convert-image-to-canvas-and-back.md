@@ -2,7 +2,7 @@
 layout: post
 title: Convert Image to Canvas and back HTML5
 date: 2011-08-23 00:59
-author: shawnmclean
+
 comments: true
 categories: [HTML &amp; CSS, html5, Javascript, jQuery, Uncategorized]
 ---

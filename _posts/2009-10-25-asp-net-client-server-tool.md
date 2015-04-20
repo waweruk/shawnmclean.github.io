@@ -2,7 +2,7 @@
 layout: post
 title: ASP.NET Client-Server tool.
 date: 2009-10-25 23:03
-author: shawnmclean
+
 comments: true
 categories: [.Net Framework, Imagine Cup 2010, Localhost, Server]
 ---

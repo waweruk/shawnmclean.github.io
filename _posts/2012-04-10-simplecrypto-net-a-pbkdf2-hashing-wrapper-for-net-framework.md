@@ -2,7 +2,7 @@
 layout: post
 title: SimpleCrypto.Net a PBKDF2 Hashing wrapper for .Net Framework
 date: 2012-04-10 06:46
-author: shawnmclean
+
 comments: true
 categories: [.net, .Net Framework, c#, hashing, security]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Create/generate an absolute URL in ASP.NET MVC Controller
 date: 2011-07-27 01:53
-author: shawnmclean
+
 comments: true
 categories: [.net, .Net Framework, as, asp.net-mvc, asp.net-mvc-3]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: ConfigurationManager not found.
 date: 2011-02-15 15:20
-author: shawnmclean
+
 comments: true
 categories: [.net, .Net Framework]
 ---

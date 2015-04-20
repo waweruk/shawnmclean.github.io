@@ -2,7 +2,7 @@
 layout: post
 title: Getting Windows 8 Developer Preview to work in Virtualbox
 date: 2011-09-14 17:55
-author: shawnmclean
+
 comments: true
 categories: [virtualbox, Windows, windows 8]
 ---

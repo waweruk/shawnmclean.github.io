@@ -2,7 +2,7 @@
 layout: post
 title: Access command prompt | terminal in visual studio
 date: 2012-06-25 01:28
-author: shawnmclean
+
 comments: true
 categories: [Visual Studio, visual studio]
 ---

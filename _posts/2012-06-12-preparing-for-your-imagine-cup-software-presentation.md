@@ -2,7 +2,7 @@
 layout: post
 title: Preparing for your Imagine Cup Software Presentation
 date: 2012-06-12 05:47
-author: shawnmclean
+
 comments: true
 categories: [Imagine Cup, Uncategorized]
 ---

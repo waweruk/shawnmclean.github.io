@@ -2,7 +2,7 @@
 layout: post
 title: Getting SourceGear DiffMerge 3.3.1 x64 to work with visual studio 2010
 date: 2011-08-23 03:35
-author: shawnmclean
+
 comments: true
 categories: [.Net Framework, diffmerge, visual studio]
 ---

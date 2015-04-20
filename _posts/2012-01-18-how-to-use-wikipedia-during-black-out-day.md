@@ -2,7 +2,7 @@
 layout: post
 title: How to use wikipedia during black-out day
 date: 2012-01-18 15:36
-author: shawnmclean
+
 comments: true
 categories: [Javascript, javascript]
 ---

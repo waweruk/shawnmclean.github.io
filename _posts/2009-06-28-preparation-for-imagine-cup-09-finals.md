@@ -2,7 +2,7 @@
 layout: post
 title: Preparation for Imagine Cup 09 Finals
 date: 2009-06-28 21:21
-author: shawnmclean
+
 comments: true
 categories: [Competition, Imagine Cup 09, Left Clik, Software Design, Uncategorized]
 ---

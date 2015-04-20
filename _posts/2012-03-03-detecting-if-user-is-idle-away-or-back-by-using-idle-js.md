@@ -2,7 +2,7 @@
 layout: post
 title: Detecting if user is idle, away or back by using Idle.js
 date: 2012-03-03 21:24
-author: shawnmclean
+
 comments: true
 categories: [Javascript, javascript]
 ---

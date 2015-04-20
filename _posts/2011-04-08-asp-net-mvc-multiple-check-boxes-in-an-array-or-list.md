@@ -2,7 +2,7 @@
 layout: post
 title: Asp.net MVC Multiple check-boxes in an array or list
 date: 2011-04-08 19:27
-author: shawnmclean
+
 comments: true
 categories: [.Net Framework, asp.net-mvc, asp.net-mvc-3]
 ---

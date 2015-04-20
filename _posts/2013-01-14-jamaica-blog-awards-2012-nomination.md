@@ -2,7 +2,7 @@
 layout: post
 title: Jamaica Blog Awards 2012 nomination
 date: 2013-01-14 14:04
-author: shawnmclean
+
 comments: true
 categories: [Random]
 ---

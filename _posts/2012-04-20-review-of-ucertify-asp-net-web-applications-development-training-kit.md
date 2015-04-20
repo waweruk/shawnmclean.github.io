@@ -2,7 +2,7 @@
 layout: post
 title: Review of uCertify ASP.NET Web Applications Development Training Kit
 date: 2012-04-20 01:48
-author: shawnmclean
+
 comments: true
 categories: [.net, .Net Framework, review, Uncategorized]
 ---

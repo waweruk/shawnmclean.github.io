@@ -2,7 +2,7 @@
 layout: post
 title: Imagine Cup 09 results
 date: 2009-07-10 22:12
-author: shawnmclean
+
 comments: true
 categories: [Imagine Cup 09, Left Clik, Software Design, Uncategorized]
 ---

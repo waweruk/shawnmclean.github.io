@@ -2,7 +2,7 @@
 layout: post
 title: IQueryable vs. IEnumerable in the repository pattern
 date: 2011-06-29 03:15
-author: shawnmclean
+
 comments: true
 categories: [.Net Framework, Entity-framework]
 ---

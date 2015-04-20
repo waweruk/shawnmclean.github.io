@@ -2,7 +2,7 @@
 layout: post
 title: Add folders to fsharp (F#) project in visual studio 2010/2008
 date: 2011-03-14 04:15
-author: shawnmclean
+
 comments: true
 categories: [.net, f#, Uncategorized]
 ---

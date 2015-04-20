@@ -2,7 +2,7 @@
 layout: post
 title: Claro Jamaica Internet Review
 date: 2009-12-07 02:37
-author: shawnmclean
+
 comments: true
 categories: [Uncategorized]
 ---

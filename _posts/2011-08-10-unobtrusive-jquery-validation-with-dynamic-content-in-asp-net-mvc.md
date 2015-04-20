@@ -2,7 +2,7 @@
 layout: post
 title: Unobtrusive jquery validation with dynamic content in ASP.NET MVC
 date: 2011-08-10 04:16
-author: shawnmclean
+
 comments: true
 categories: [asp.net-mvc, asp.net-mvc-3, HTML &amp; CSS, html5, Javascript, jQuery]
 ---

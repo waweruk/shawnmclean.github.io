@@ -2,7 +2,7 @@
 layout: post
 title: Windows Live Writer Facebook Sharing Plugin
 date: 2009-07-26 19:43
-author: shawnmclean
+
 comments: true
 categories: [.net, .Net Framework, facebook-api]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Configuration Error in web.config for roles provider
 date: 2012-07-28 01:46
-author: shawnmclean
+
 comments: true
 categories: [ASP.NET MVC, asp.net-mvc, asp.net-mvc-3, asp.net-mvc-4, dependency-injection, ninject]
 ---
