@@ -36,5 +36,16 @@ owner:
     ad-slot: 3049671934
   disqus-shortname:
 
+# Settings for analytics helper
+# Set 'provider' to the analytics provider you want to use.
+# Set 'provider' to false to turn analytics off globally.
+#
+analytics :
+  provider : google
+  google :
+      tracking_id : 'UA-62087980-1'
+  getclicky :
+    site_id :
+
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

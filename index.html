@@ -30,7 +30,7 @@ layout: home
 					</section>
 
 							<div class="post-tags">
-							{% for tag in post.categories %}<a href="{{ site.url }}/categories/index.html#{{ post.categories | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} category">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
+							{% for tag in post.categories %}<a href="{{ site.url }}/categories/index.html#{{ post.categories | cgi_encode }}" title="Other posts from the {{ tag }} category">{{ tag }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
 
 							</div>
 
@@ -72,7 +72,7 @@ layout: home
             </section>
 
                 <div class="post-tags">
-                {% for tag in post.categories %}<a href="{{ site.url }}/categories/index.html#{{ post.categories | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} category">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
+                {% for tag in post.categories %}<a href="{{ site.url }}/categories/index.html#{{ post.categories | cgi_encode }}" title="Other posts from the {{ tag }} category">{{ tag }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
 
                 </div>
 
