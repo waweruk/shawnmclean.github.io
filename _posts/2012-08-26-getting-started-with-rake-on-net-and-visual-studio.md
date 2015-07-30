@@ -2,7 +2,6 @@
 layout: post
 title: Getting started with rake on .NET and visual studio
 date: 2012-08-26 18:16
-
 comments: true
 categories: [.NET, ALM]
 ---
