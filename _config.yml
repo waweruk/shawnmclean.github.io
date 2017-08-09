@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Shawn Mclean
-description: "Software Engineering is fun"
+title: Kevin Waweru
+description: "Business development is fun"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-disqus-shortname: shawnmclean
+disqus-shortname: kevinwaweru
 url: ''
 
 # Jekyll configuration
@@ -24,16 +24,16 @@ paginate_path: "page-:num"
 
 # Site owner
 owner:
-  name: Shawn Mclean
-  web: http://shawnmclean.com
-  email: shawnrmclean@gmail.com
-  twitter: shawnrmclean
-  bio: "Software Engineer, I write, test and deploy the codes."
+  name: Kevin Waweru
+  web: http://kevinwaweru.com
+  email: k.waweru1@gmail.com
+  twitter: 
+  bio: "Business developer, I develop, write, test and deploy software/business solutions."
   avatar: bio-photo.jpg # 160x160 px image for author byline
   google:
-    plus: +ShawnMcleans
-    ad-client: ca-pub-7328585512091257
-    ad-slot: 3049671934
+    plus: 
+    ad-client: 
+    ad-slot: 
   disqus-shortname:
 
 # Settings for analytics helper
@@ -43,7 +43,7 @@ owner:
 analytics :
   provider : google
   google :
-      tracking_id : 'UA-62087980-1'
+      tracking_id : 
   getclicky :
     site_id :
 
