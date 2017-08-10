@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Retrieve Coordinates from Google Maps on Click
-date: 2010-01-07 20:07
+date: 2012-02-07 20:07
 comments: true
 categories: [Javascript]
 ---
