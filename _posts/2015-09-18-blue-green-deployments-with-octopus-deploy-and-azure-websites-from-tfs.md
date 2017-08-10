@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blue-Green Deployments with Octopus Deploy and Azure Websites from TFS
-date: 2014-09-18 06:02
+date: 2015-09-18 06:02
 comments: true
 categories: [ALM, DevOps]
 tags: [visual studio, windows azure]
