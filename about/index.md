@@ -15,4 +15,4 @@ ads: false
 This is a work in progress.
 
 Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add ones own flare and markup.
-<h2><a href="https://www.startupgrind.com/london/">Check out more about me here</a></h2>
+<h2><a href="https://www.kevinwaweru.com/"><u>Check out more about me here</u></a></h2>
