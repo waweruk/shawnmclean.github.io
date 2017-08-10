@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting WCF Meta-data from Windows Azure
-date: 2009-06-24 00:49
+date: 2014-06-24 00:49
 comments: true
 categories: [WCF]
 tags:
