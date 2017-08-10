@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Test Windows Mobile Device Against Localhost Webservice
-date: 2009-06-20 05:26
+date: 2013-06-20 05:26
 comments: true
 categories: [Mobile Development, Windows CE]
 ---
