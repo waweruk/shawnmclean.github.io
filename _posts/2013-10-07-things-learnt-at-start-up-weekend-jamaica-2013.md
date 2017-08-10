@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Things learnt at start-up weekend Jamaica 2013
+title: Things learnt at start-up weekend London United Kingdom 2013
 date: 2013-10-07 21:45
 comments: true
 categories: [Entrepreneurship]
 ---
-I attended the first <a href="http://jamaica.startupweekend.org/">start-up weekend Jamaica</a> event with the intention of gaining some experience and learning things from the vast knowledge base provided by the awesome coaches at the event.
+I attended the first <a href="https://www.startupgrind.com/london/">start-up weekend London event h the intention of gaining some experience and learning things from the vast knowledge base provided by the awesome coaches at the event.
 
 The weekend is a 54 hour event, starting from a Friday evening to Sunday evening attended by entrepreneurs from various backgrounds such as designers, developers, marketers, etc. We pitch an idea, people form a team with the ideas they like and they work on a pitch over the weekend. They try to iron out the problem, solutions and business viability with the help of coaches. Being a part of one of the teams, I have learnt a few things;
 <h2>1. Communicate your problem and solution effectively</h2>
