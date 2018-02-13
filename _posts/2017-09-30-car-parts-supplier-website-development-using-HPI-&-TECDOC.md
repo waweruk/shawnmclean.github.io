@@ -43,7 +43,7 @@ Final Features:
 
 3. Parts can be purchased for more than one vehicle in one session
 
-4. Normal parts (that has no relation with Tecdoc) are sold according to Magento fashion.
+4. Normal parts (that has no relation with Tecdoc) are sold according to Prestashop fashion.
 
 5. Display only related parts for selected vehicle.
 
@@ -61,8 +61,8 @@ Final Features:
 
 12. Vehicle Detail included in Order.
 
-13. Web services integrated using native Zend Library
+13. Web services integrated using native Zend Library.
 
-14. Multilingual support for product
+14. Multilingual support for product.
 
-15. Country specific products support
+15. Country specific products support.
