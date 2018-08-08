@@ -6,8 +6,7 @@ comments: true
 categories: [ALM, DevOps]
 tags: [visual studio, windows azure]
 ---
-This article aim to explain how we can use Octopus Deploy to Automate Deployments to Azure Websites with a single deployment agent (tentacle) using the Blue-Green deployment pattern. This infrastructure is being used in my startup <a href="http://grik.ly">Grikly</a> running purely on Azure using the BizSpark subscription, a simple and nice setup for a low cost software development company. The same concepts can be used in Enterprise grade systems.
-
+This article aim to explain how we can use Octopus Deploy to Automate Deployments to Azure Websites with a single deployment agent (tentacle) using the Blue-Green deployment pattern.
 <strong>Blue-Green</strong> deployments allow us to deploy web applications that require warm up time without any down times. This require running 2 instances of production grade environments such as a staging and production. We deploy to staging, have it warm up and swap it with production.
 
 <strong>Octopus Deploy</strong> is a cool deployment tool that suites well in .NET projects.
