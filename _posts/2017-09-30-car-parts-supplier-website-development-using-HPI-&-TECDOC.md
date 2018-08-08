@@ -17,7 +17,7 @@ The client had been using a dated version of OpenCart and relied on Autoline ERP
 
 Our Solution
 
-We are developing a TecDoc extension to work with Prestashop. The development will administer a search functionality that will allow delivery of data for all the products from up to 30 car parts manufacturers and deploy a search tree to locate the right part for every vehicle. The identification of vehicles will be supported by VIN number search as well as the original OEM part number. Custom pricing and customer profiling will also be developed to assign customers groups to various staff...
+We are developing a TecDoc extension to work with Prestashop. The development will administer a search functionality that will allow delivery of data for all the products from up to 30 car parts manufacturers and deploy a search tree to locate the right part for every vehicle. The identification of vehicles will be supported by VIN number search as well as the original OEM part number. Custom pricing and customer profiling will also be developed to assign customers groups to various staff.
 
 Developments to be Undertaken:
 
