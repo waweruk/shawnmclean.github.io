@@ -11,15 +11,15 @@ categories:
   - TECDOC
 ---
 
-The Challenge:
+The Challenge
 
-The client had been using a dated version of OpenCart and relied on Autoline ERP to maintain their offline sales channels. As per local business norms the clients would offer a price to buy items. AutoworldKenya administrators would then either accept the price or issue a counter offer to the customer. This proces required a custom module to handle retail and wholesale orders. Absense of VRM lookup service in the region, however it was crucial to offer vehicle identification service through their car parts website AutoworldKenya.co.ke.
+The client had been using a dated version of OpenCart and relied on Autoline ERP to maintain their offline sales channels. As per local business norms the clients would offer a price to buy items, client's administrators would then either accept the price or issue a counter offer to the customer. This process required a custom module to handle retail and wholesale orders. Due to absence of VRM lookup service in the region however, it was crucial to offer vehicle identification service through their car parts website AutoworldKenya.co.ke.
 
-Our Solution:
+Our Solution
 
-We developed a TecDoc extension to work with Prestashop. We developed custom pricing and customer profiling modules that allowed AutoworldKenya to assign customers groups to various staff. The module also allowed them to manage a pricing structure for customer groups. In order to identify vehicles we implemented VIN number search which made it possible for them to offer car parts with precision on their website.
+We are developing a TecDoc extension to work with Prestashop. The development will administer a search functionality that will allow delivery of data for all the products from up to 30 car parts manufacturers and deploy a search tree to locate the right part for every vehicle. The identification of vehicles will be supported by VIN number search as well as the original OEM part number. Custom pricing and customer profiling will also be developed to assign customers groups to various staff...
 
-Development Undertaken:
+Developments to be Undertaken:
 
 1. Prestashop version upgrade and migration of existing data.
 
