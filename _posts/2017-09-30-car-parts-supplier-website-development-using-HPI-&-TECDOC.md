@@ -9,6 +9,7 @@ categories:
   - Ecommerce
   - Entrepreneurship
   - TECDOC
+  - Prestashop
 ---
 
 The Challenge
